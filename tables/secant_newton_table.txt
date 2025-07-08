@@ -1,0 +1,2 @@
+  Iteration       x_n    f(x_n)    Error |x_{n+1} - x_n|
+          1  0.865474  0.000000                 0.000000

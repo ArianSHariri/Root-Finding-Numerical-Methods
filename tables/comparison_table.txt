@@ -1,0 +1,6 @@
+Method            Iterations      Root    Abs Error |x - x_true|    Stopping Error    Time (s)
+Bisection                 10  0.866211                  0.000737          0.000488    0.000026
+Newton-Raphson             4  0.865474                  0.000000          0.000000    0.006667
+Fixed Point               10  0.865475                  0.000001          0.000003    0.000012
+False Position             7  0.865473                  0.000001          0.000001    0.000046
+Secant                     5  0.865474                  0.000000          0.000000    0.000011
